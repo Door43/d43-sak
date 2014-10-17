@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sak:home|Door43 (sak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sak|d43-sak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sak/archive/master.zip|d43-sak.zip]]
+
+**Recent Changes**
+{{changes>ns = sak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sak|Ethnologue data]]
+
